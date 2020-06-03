@@ -1,0 +1,28 @@
+_repo: Remarks-upon-the-proposed-destruction-of-the-tower-of-the-Parish-Church-of-St-John-Hampstead_62222
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, George Gilbert, Sir
+    alias: Scott, Gilbert, Sir
+    birthdate: 1811
+    deathdate: 1878
+    gutenberg_agent_id: '51339'
+    url: http://www.gutenberg.org/2009/agents/51339
+    wikipedia: https://en.wikipedia.org/wiki/George_Gilbert_Scott
+description: ''
+gutenberg_issued: '2020-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Church architecture -- England -- London'
+- !lcsh 'St. John''s Parish Church (Hampstead, London, England)'
+- GITenberg
+title: Remarks upon the proposed destruction of the tower of the Parish Church of
+  St. John, Hampstead
+url: http://www.gutenberg.org/ebooks/62222
